@@ -22,7 +22,7 @@ The Application does the following:
 
   Ruby, etc
 
-* Each course costs $200 to enroll
+* Each course costs ₹600 to enroll
 
 * The student can be able to view their Remaning fees and pay the tuition amount
 
